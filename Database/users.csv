@@ -1,0 +1,8 @@
+user_id,username,email,password,firstName,lastName,date_of_birth,insuranceType,insuranceName,health_problem,health_information
+13,tuananh,entiay123@gmail.com,202cb962ac59075b964b07152d234b70,"Tuan Anh",Nguyen,05/01/1999,public,AOK,"sore throat",noooo
+19,helloworld,helloworld@gmail.com,827ccb0eea8a706c4c34a16891f84e7b,Max,Muelller,10/09/1989,public,AOK,"chest pain","i have nothing"
+20,mueller,max.mueller@gmail.com,caf1a3dfb505ffed0d024130f58c5cfa,Thomas,Mueller,09/11/1993,public,DAK,"flu fever","i feel tired"
+21,hungtran,tranvanhungptnk@gmail.com,698d51a19d8a121ce581499d7b701668,Hung,Tran,10/07/1999,public,TK,NULL,"i feel tired"
+22,vanhung,hung.tranvan@stud.fra-uas.de,bcbe3365e6ac95ea2c0343a2395834dd,"Van Hung",Nguyen,10/10/1993,public,DAK,"sore throat",
+23,kheyden,kheyden@stud.fra-uas.de,310dcbbf4cce62f762a2aaa148d556bd,Kai,"von der Heyden",09/10/1997,public,AOK,headache,nothing
+24,longtran,phuclongtranphan112@gmail.com,e10adc3949ba59abbe56e057f20f883e,"Phuc Long",Tran,01/03/2000,private,"Care concept",NULL,
