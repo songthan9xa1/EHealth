@@ -1,0 +1,27 @@
+doctor_id,firstName,lastName,doctor_address,specialization,latitude,longitude
+1,"Doctor 1","Surname 1","Am Dornbusch 15","General medicine",50.1162,8.6844
+2,"Doctor 2","Surname 2","Platen Strasse 11",Ophthalmology,50.2367,8.6662
+3,"Doctor 3","Surname 3","Karl-Stieler-Strasse 1",Pulmonology,50.1467,8.9562
+4,"Doctor 4","Surname 4","Melemstrasse 99",Odontology,50.1307,8.6412
+5,"Doctor 5","Surname 5","Feyerleinstrasse 5",Surgery,50.3098,8.7462
+6,"Doctor 6","Surname 6","Weberstrasse 3",Otorhinolaryngology,50.1267,8.6862
+7,"Doctor 7","Surname 7","Hebelstrasse 9",Neurology,50.1167,8.6262
+8,"Doctor 8","Surname 8","Scheffrlstrasse 35",Endocrinology,50.1267,8.6962
+9,"Doctor 9","Surname 9","Sternstrasse 67",Gynecology,50.4667,8.8162
+10,"Doctor 10","Surname 10","Beilsteinstrasse 55",Andrology,50.9367,8.7662
+11,"Doctor 11","Surname 11","Rheingutstrasse 12",Obstetrics,50.1888,8.883
+12,"Doctor 12","Surname 12","Sternstrasse 1",Psychology,50.1222,8.855
+13,"Doctor 13","Surname 13","Sternstrasse 98",Dermatoloy,50.8222,8.761
+14,"Doctor 14","Surname 14","Am Dornbusch 76","General medicine",50.2162,8.6844
+15,"Doctor 15","Surname 15","Platen Strasse 143",Ophthalmology,50.4367,8.6662
+16,"Doctor 16","Surname 16","Karl-Stieler-Strasse 7",Pulmonology,50.0467,8.9562
+17,"Doctor 17","Surname 17","Melemstrasse 87",Odontology,50.2307,8.6412
+18,"Doctor 18","Surname 18","Feyerleinstrasse 99",Surgery,50.5098,8.7462
+19,"Doctor 19","Surname 19","Weberstrasse 167",Otorhinolaryngology,50.3267,8.6862
+20,"Doctor 20","Surname 20","Hebelstrasse 200",Neurology,50.7167,8.6262
+21,"Doctor 21","Surname 21","Scheffrlstrasse 67",Endocrinology,50.6267,8.6962
+22,"Doctor 22","Surname 22","Sternstrasse 1",Gynecology,50.1667,8.8162
+23,"Doctor 23","Surname 23","Beilsteinstrasse 90",Andrology,50.0367,8.7662
+24,"Doctor 24","Surname 24","Rheingutstrasse 98",Obstetrics,50.2888,8.883
+25,"Doctor 25","Surname 25","Sternstrasse 167",Psychology,50.1222,8.655
+26,"Doctor 26","Surname 26","Sternstrasse 64",Dermatoloy,50.1222,8.961
